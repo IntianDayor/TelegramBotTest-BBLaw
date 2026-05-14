@@ -49,8 +49,7 @@ This project was created as a **testing environment** for:
 
 - Telegram Bot API  
 - BotFather configuration  
-- HTML / CSS / JavaScript (update if different)  
-- Backend logic for RNG (if applicable)  
+- HTML / CSS / JavaScript (update if different)
 
 ---
 
